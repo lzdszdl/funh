@@ -13,9 +13,7 @@
     "rc-queue-anim": "^1.2.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-motion": "^0.5.0"
-  },
-  "devDependencies": {
+    "react-motion": "^0.5.0",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.25.0",
     "babel-eslint": "^7.2.3",
